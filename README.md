@@ -10,9 +10,6 @@ O projeto MaxBus Software tem como objetivo desenvolver um sistema que monitora 
 
 ## ✒️ Autores
 
--  **Adrian da Silva Berlinck**  -  Desenvolvedor
--  **Fulano De Tal**  -  _Documentação_  -
-- **Fulano De Tal**  -  _Documentação_  -
 - **Adrian da Silva Berlinck** - adrian_berlinck@estudante.sc.senai.br
 - **Alan de Medeiros** - alan_de-medeiros@estudante.sesisenai.org.br
 - **Geovane Gonzatto Mello** - geovane_gonzatto@estudante.sesisenai.org.br
