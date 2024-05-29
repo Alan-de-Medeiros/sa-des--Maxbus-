@@ -48,7 +48,7 @@ O projeto MaxBus Software tem como objetivo desenvolver um sistema que monitora 
 
 - **Adrian** - (48) 9 91800287
 - **Alan** - (48) 9 9180-5682
-- **Geovane** - (48) 9 965-69758
+- **Geovane** - (48) 9 9656-9758
 
 
 
