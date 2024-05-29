@@ -8,11 +8,15 @@ height="100px"/>
 O projeto MaxBus Software tem como objetivo desenvolver um sistema que monitora e coleta dados sobre o transporte público em sua cidade. Ele visa fornecer informações relevantes para a tomada de decisões sobre a frota de ônibus, otimizando o serviço e melhorando a experiência dos passageiros.
 
 
-## 🛠️ Funcionalidades
+## 💻Benefícios do produto
 
-- Cálculo de quantidade de passageiros;
+- Fornecer uma análise para decisões sobre ampliar/reduzir a quantidade de ônibus, facilitando assim o planejamento e otimizando e reduzindo custos. 
 
-- 
+- Melhor gestão de arrecadação.
+
+- Melhor controle do fluxo de pessoas.
+
+- Redução de perdas identificando passageiros perdidos por superlotação.
 
 
 
