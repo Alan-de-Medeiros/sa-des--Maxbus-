@@ -46,7 +46,7 @@ O projeto MaxBus Software tem como objetivo desenvolver um sistema que monitora 
 
 ## 👾 Relatório de Bugs/Ajuda
 
-- **Adrian** - (48) 9 91800287
+- **Adrian** - (48) 9 9180-0287
 - **Alan** - (48) 9 9180-5682
 - **Geovane** - (48) 9 9656-9758
 
@@ -54,3 +54,10 @@ O projeto MaxBus Software tem como objetivo desenvolver um sistema que monitora 
 
 https://www.tinkercad.com/things/6auHy6XTfzv-sa-maxbus/editel?sharecode=h-elHZIBZNTPUErvD-Em2uEAyPnqzuez6q3fB1EpzGQ
 
+## Link para o Fluxograma
+
+https://drive.google.com/file/d/1veIU5u2onBvbHmlA_D8HF7EDckFtp_j2/view?usp=sharing
+
+## Link Para Situacao de Aprendizagem
+
+https://docs.google.com/document/d/1-0VMGALxUAyUfgXUnHwbOaoKSEt1Lq7E/edit?usp=sharing&ouid=104728082921183943936&rtpof=true&sd=true
