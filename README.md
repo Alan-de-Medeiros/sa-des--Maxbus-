@@ -60,4 +60,4 @@ https://drive.google.com/file/d/1veIU5u2onBvbHmlA_D8HF7EDckFtp_j2/view?usp=shari
 
 ## Link Para Situacao de Aprendizagem
 
-https://docs.google.com/document/d/11iMYLLOTsceg8c-bhUmY9KDx8ECIEIQqSSI1pm1fAw0/edit?usp=sharing
+https://docs.google.com/document/d/1RIpSIFwJ-Yuuq6K-HWibshp5RCYZD9emYoB_pjMThw0/edit?usp=sharing
