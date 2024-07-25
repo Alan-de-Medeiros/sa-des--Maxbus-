@@ -50,7 +50,7 @@ O projeto MaxBus Software tem como objetivo desenvolver um sistema que monitora 
 - **Alan** - (48) 9 9180-5682
 - **Geovane** - (48) 9 9656-9758
 
-## 🫡 Link para o Tinkercad
+## 🤙 Link para o Tinkercad
 
 https://www.tinkercad.com/things/6auHy6XTfzv-sa-maxbus/editel?sharecode=h-elHZIBZNTPUErvD-Em2uEAyPnqzuez6q3fB1EpzGQ
 
